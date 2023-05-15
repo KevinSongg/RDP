@@ -1,0 +1,1 @@
+Reliable Datagram Protocol that takes in a file and transfers the data into another file using a UDP connection. Skills used include connection management with different tags such as SYN, DAT, ACK, RST, FIN. Also uses flow control and error control.
